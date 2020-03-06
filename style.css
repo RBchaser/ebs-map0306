@@ -1,12 +1,25 @@
 *{
     text-decoration:none;
+    margin:0;
+    padding:0;
 }
+
+
+.frame-wrapper{
+    position:absolute;
+    display:inline-block;
+    
+    text-align: center;
+}
+
 .sp-frame{
     position:relative;
     text-align:center;
     width:300px;
     margin:0 auto;
 }
+
+
 
 
 .map-wrapper{
@@ -17,6 +30,13 @@
     width:300px;
 }
 
+
+
+.move{
+    position: absolute;
+    display:inline-block;
+    margin-top:10px;
+}
 .points1{
     position: absolute;
     display:inline-block;
