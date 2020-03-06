@@ -38,8 +38,10 @@
     position: absolute;
     display:inline-block;
     height:5px;
+    /*=_____________________________________________ここの数値でズレを調整
     margin-top:300px;
     margin-left:300px
+    */
 }
 .points1{
     position: absolute;
