@@ -387,13 +387,13 @@ li{
 }
 
 .discribe p{
-  text-align:center;
+  text-align:right;
 }
 
 .discribe ul{
   padding:30px;
   background-color:lightyellow;
-  text-align:center;
+  text-align:left;
 }
 
 
