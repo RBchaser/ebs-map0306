@@ -38,7 +38,8 @@
     position: absolute;
     display:inline-block;
     height:5px;
-    margin-top:10px;
+    margin-top:30px;
+    margin-left:30px
 }
 .points1{
     position: absolute;
