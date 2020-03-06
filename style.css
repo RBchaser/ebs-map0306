@@ -75,9 +75,7 @@
     width:40px;
     
     margin-top:240px;
-    margin-left: -70px
-    
-    
+    margin-left: -80px;
 }
 
 .points4{
@@ -87,7 +85,278 @@
     line-height:9px;
     width:40px;
     
-   
+    margin-top:240px;
+    margin-left: -40px;
+    
+    display:none;
 }
+
+.points5{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:240px;
+    margin-left: -10px;
+    
+}
+
+
+.points6{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:240px;
+    margin-left: 20px;
+    
+}
+
+
+.points7{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:240px;
+    margin-left: 55px;
+    
+}
+
+.points8{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:60px;
+    
+    margin-top:240px;
+    margin-left: 90px;
+    
+}
+
+.points9{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:260px;
+    margin-left: 90px;
+    
+}
+
+.points10{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:280px;
+    margin-left: 90px;
+    
+}
+
+.points11{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:300px;
+    margin-left: 90px;
+    
+    display:none;
+    
+}
+
+.points12{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:320px;
+    margin-left: 90px;
+    
+}
+
+.points13{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:380px;
+    margin-left: 120px;
+    
+}
+
+.points14{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:320px;
+    margin-left: 170px;
+    
+}
+
+.points15{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:50px;
+    
+    margin-top:200px;
+    margin-left: 200px
+    
+}
+
+.points16{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:60px;
+    
+    margin-top:140px;
+    margin-left:200px
+    
+}
+
+.points17{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:135px;
+    margin-left: 90px;
+    
+}
+
+.points18{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:135px;
+    margin-left: 55px;
+}
+
+.points19{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:135px;
+    margin-left: 25px;
+}
+
+.points20{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:135px;
+    margin-left: 0px;
+}
+
+.points21{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:135px;
+    margin-left: -30px;
+}
+
+.points22{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:70px;
+    margin-left:30px;
+}
+
+.points23{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:50px;
+    
+    margin-top:100px;
+    margin-left:200px;
+}
+
+.points24{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+}
+
+.points25{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+}
+
+.points26{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+}
+
+.points27{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+}
+
+.points28{
+    position: absolute;
+    display:inline-block;
+    font-size:1px;
+    line-height:9px;
+    width:40px;
+}
+
+
 
 
