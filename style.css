@@ -8,6 +8,7 @@
 .frame-wrapper{
     position:absolute;
     display:inline-block;
+    height:2000px;
     
     text-align: center;
 }
