@@ -29,7 +29,9 @@ li{
     margin:0 auto;
 }
 
-
+.title{
+    text-align:left;
+}
 
 
 .map-wrapper{
