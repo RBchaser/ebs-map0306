@@ -479,6 +479,9 @@ footer{
     padding:10px;
     color:white;
     font-size:7px;
+    
+    width:100%;
+    position: fixed; bottom: 0;
 }
 
 
