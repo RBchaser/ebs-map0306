@@ -484,4 +484,7 @@ footer{
     position: fixed; bottom: 0;
 }
 
-
+footer a{
+    text-decoration:none;
+    color:white;
+}
