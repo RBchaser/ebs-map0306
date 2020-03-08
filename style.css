@@ -69,6 +69,23 @@ li{
     margin-left:-80px;
 }
 
+.home{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    color:white;
+    background-color: #ff1493;
+    border-radius:20px;
+    padding-top:15px;
+    padding-bottom:15px;
+    
+    margin-top:170px;
+    margin-left:130px;
+}
+
 
 
 .points1{
