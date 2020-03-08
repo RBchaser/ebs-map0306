@@ -459,6 +459,20 @@ srtong{
     barder:solid;
 }
 
+.parent{
+    text-align:center;
+}
+
+.back{
+    display:inline-block;
+    font-size:15px;
+    padding:5px 10px 5px 10px;
+    background-color:lightblue;
+    border:solid blue;
+    border-radius:20px;
+    margin-bottom:30px;
+}
+
 footer{
     text-align:center;
     background-color: lightblue;
