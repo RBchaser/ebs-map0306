@@ -488,3 +488,39 @@ footer a{
     text-decoration:none;
     color:white;
 }
+
+
+/*=画像_____________________________________________*/
+
+
+
+.img-wrapper{
+   text-align:center;
+   padding:50px;
+   
+   background-image: url("imgs/caution.jpg");
+   background-size:cover;
+   margin:30px;
+}
+
+.sample-img{
+   width:80%;
+   margin:0 auto;
+   display:inline-block;
+}
+
+.sample{
+    width:40%;
+    border:solid;
+}
+
+.img-wrapper h3{
+    text-align:center;
+    padding:10px;
+    margin:20px;
+    
+    color:white;
+    background-color:red;
+}
+
+
