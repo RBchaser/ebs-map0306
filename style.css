@@ -524,7 +524,6 @@ footer a{
 }
 
 
-/*=ピカチュウ*/
 .pkc{
     position: absolute;
     display:inline-block;
@@ -553,12 +552,12 @@ footer a{
     padding:2px;
     border-radius:10px;
     
-    margin-top:180px;
-    margin-left:-0px;
+    margin-top:280px;
+    margin-left:130px;
 }
 
 .kt{
-    width:50px;
+    width:35px;
 }
 
 /*=ミッキー*/
@@ -573,11 +572,10 @@ footer a{
     padding:2px;
     border-radius:10px;
     
-    margin-top:180px;
-    margin-left:70px;
+    margin-top:80px;
+    margin-left:90px;
 }
 
 .mk{
     width:50px;
 }
-
