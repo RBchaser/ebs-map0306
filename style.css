@@ -542,3 +542,42 @@ footer a{
     width:20px;
 }
 
+/*=キティ*/
+
+.pkc{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    padding:2px;
+    border-radius:10px;
+    
+    margin-top:180px;
+    margin-left:-70px;
+}
+
+.pk{
+    width:20px;
+}
+
+/*=ミッキー*/
+
+
+.pkc{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    padding:2px;
+    border-radius:10px;
+    
+    margin-top:180px;
+    margin-left:-70px;
+}
+
+.pk{
+    width:20px;
+}
+
