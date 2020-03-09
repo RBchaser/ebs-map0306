@@ -544,7 +544,7 @@ footer a{
 
 /*=キティ*/
 
-.pkc{
+.hkt{
     position: absolute;
     display:inline-block;
     font-size:10px;
@@ -557,14 +557,14 @@ footer a{
     margin-left:-70px;
 }
 
-.pk{
+.kt{
     width:20px;
 }
 
 /*=ミッキー*/
 
 
-.pkc{
+.mkm{
     position: absolute;
     display:inline-block;
     font-size:10px;
@@ -577,7 +577,7 @@ footer a{
     margin-left:-70px;
 }
 
-.pk{
+.mk{
     width:20px;
 }
 
