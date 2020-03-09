@@ -490,7 +490,7 @@ footer a{
 }
 
 
-/*=画像_____________________________________________*/
+/*=画像まぜるな危険_____________________________________________*/
 
 
 
@@ -500,7 +500,7 @@ footer a{
    
    background-image: url("https://github.com/RBchaser/ebs-map0306/blob/master/warn.jpg?raw=true");
    background-size:cover;
-   margin:30px;
+   margin:10px 10px 30px 10px;
 }
 
 .sample-img{
