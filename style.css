@@ -579,3 +579,17 @@ footer a{
 .mk{
     width:50px;
 }
+
+
+
+/*=冷蔵庫画像挿入テスト*/
+.rf{
+    width:40px;
+    margin-top:-30px;
+   
+}
+
+.bg a{
+    background-color:rgba(255,255,255,0.5);
+    position: relative;
+}
