@@ -1,1 +1,597 @@
+*{
+    text-decoration:none;
+    margin:0;
+    padding:0;
+    list-style:none;
+    
+}
+
+li{
+    padding:20px
+}
+
+
+.frame-wrapper{
+    position:absolute;
+    display:inline-block;
+    height:2000px;
+    
+    
+    text-align: center;
+    
+    margin-top:100px;
+}
+
+.sp-frame{
+    position:relative;
+    text-align:center;
+    width:300px;
+    margin:0 auto 15px auto;
+}
+
+.title{
+    display:inline-block;
+}
+
+
+.map-wrapper{
+    position: absolute;
+}
+
+.map{
+    width:300px;
+}
+
+
+
+.move{
+    position: absolute;
+    display:inline-block;
+    height:5px;
+    /*=_____________________________________________ここの数値でズレを調整
+    margin-top:300px;
+    margin-left:300px
+    */
+}
+
+.entrance{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    color:white;
+    background-color: blue;
+    border-radius:5px;
+    padding:2px;
+    margin-top:15px;
+    margin-left:-80px;
+}
+
+.home{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    color:white;
+    background-color: #ff1493;
+    border-radius:20px;
+    padding-top:15px;
+    padding-bottom:15px;
+    
+    margin-top:170px;
+    margin-left:130px;
+}
+
+
+
+.points1{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    background-color:blue;
+    color:white;
+    padding:2px;
+    border-radius:10px;
+    
+    
+    margin-top:110px;
+    margin-left:-20px;
+}
+
+.points2{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:200px;
+    margin-left: -120px
+    
+}
+
+.points3{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:240px;
+    margin-left: -80px;
+}
+
+.points4{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:240px;
+    margin-left: -40px;
+    
+    display:none;
+}
+
+.points5{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:240px;
+    margin-left: -25px;
+    
+}
+
+
+.points6{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:240px;
+    margin-left: 5px;
+    
+}
+
+
+.points7{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:240px;
+    margin-left: 55px;
+    
+}
+
+.points8{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:60px;
+    height:70px;
+    
+    margin-top:240px;
+    margin-left:27px;
+    
+}
+
+.points9{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:260px;
+    margin-left: 90px;
+    
+}
+
+.points10{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:280px;
+    margin-left: 90px;
+    
+}
+
+.points11{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:300px;
+    margin-left: 90px;
+    
+    display:none;
+    
+}
+
+.points12{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:320px;
+    margin-left: 90px;
+    
+}
+
+.points13{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:380px;
+    margin-left: 120px;
+    
+}
+
+.points14{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:320px;
+    margin-left: 170px;
+    
+}
+
+.points15{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:50px;
+    
+    margin-top:200px;
+    margin-left: 200px
+    
+}
+
+.points16{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:60px;
+    
+    margin-top:140px;
+    margin-left:200px
+    
+}
+
+.points17{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:135px;
+    margin-left: 90px;
+    
+}
+
+.points18{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:135px;
+    margin-left: 55px;
+}
+
+.points19{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:135px;
+    margin-left: 25px;
+    display:none;
+}
+
+.points20{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:135px;
+    margin-left: 0px;
+}
+
+.points21{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:135px;
+    margin-left: -30px;
+}
+
+.points22{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:70px;
+    margin-left:30px;
+}
+
+.points23{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:50px;
+    
+    margin-top:100px;
+    margin-left:200px;
+}
+
+.points24{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:80px;
+    margin-left:-90px;
+}
+
+.points25{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:60px;
+    
+    margin-top:70px;
+    margin-left:79px;
+}
+
+.points26{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    
+    margin-top:40px;
+    margin-left:-60px;
+}
+
+.points27{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:70px;
+    
+    margin-top:180px;
+    margin-left:200px
+}
+
+.points28{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+}
+
+/*=_____________________________________________ゴミ詳細*/
+
+
+
+.company{
+    background-color: lightblue;
+    padding:50px;
+    text-align:center;
+}
+
+.discribe{
+    margin:20px auto 200px auto;
+    
+    width:70%;
+}
+
+.discribe p{
+  padding-bottom:30px;
+}
+
+.discribe p{
+  text-align:;
+}
+
+.discribe ul{
+  padding:30px;
+  background-color:lightyellow;
+  text-align:left;
+}
+
+
+
+span{
+    background-color: yellow;
+}
+
+srtong{
+    barder:solid;
+}
+
+.parent{
+    text-align:center;
+}
+
+.back{
+    display:inline-block;
+    font-size:15px;
+    padding:5px 10px 5px 10px;
+    background-color:lightblue;
+    border:solid blue;
+    border-radius:20px;
+    margin-bottom:100px;
+}
+
+footer{
+    text-align:center;
+    background-color: lightblue;
+    padding:10px;
+    color:white;
+    font-size:7px;
+    
+    width:100%;
+    position: fixed; bottom: 0;
+}
+
+footer a{
+    text-decoration:none;
+    color:white;
+}
+
+
+/*=画像まぜるな危険_____________________________________________*/
+
+
+
+.img-wrapper{
+   text-align:center;
+   padding:50px;
+   
+   background-image: url("https://github.com/RBchaser/ebs-map0306/blob/master/warn.jpg?raw=true");
+   background-size:cover;
+   margin:10px 10px 30px 10px;
+}
+
+.sample-img{
+   width:80%;
+   margin:0 auto;
+   display:inline-block;
+}
+
+.sample{
+    width:40%;
+    border:solid;
+}
+
+.img-wrapper h3{
+    text-align:center;
+    padding:10px;
+    margin:0 20px 20px 20px;
+    
+    color:white;
+    background-color:red;
+}
+
+
+.pkc{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    padding:2px;
+    border-radius:10px;
+    
+    margin-top:180px;
+    margin-left:-70px;
+}
+
+.pk{
+    width:50px;
+}
+
+/*=キティ*/
+
+.hkt{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    padding:2px;
+    border-radius:10px;
+    
+    margin-top:280px;
+    margin-left:130px;
+}
+
+.kt{
+    width:35px;
+}
+
+/*=ミッキー*/
+
+
+.mkm{
+    position: absolute;
+    display:inline-block;
+    font-size:10px;
+    line-height:9px;
+    width:40px;
+    padding:2px;
+    border-radius:10px;
+    
+    margin-top:80px;
+    margin-left:90px;
+}
+
+.mk{
+    width:50px;
+}
+
+
+
+/*=冷蔵庫画像挿入テスト*/
+.pic{
+    width:40px;
+    margin-top:-30px;
+   
+}
+
+.bg a{
+    background-color:rgba(255,255,255,0.5);
+    position: relative;
+}
 
